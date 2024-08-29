@@ -1,7 +1,7 @@
 # Enriched knowledge representation in biological fields: A case study of Literature-based Discovery in Alzheimer's Disease
 
-Please cite this article as: tbd
-doi: tbd.
+Please cite this article as (preprint): Yiyuan Pu, Daniel Beck, Karin Verspoor et al. Enriched knowledge representation in biological fields: A case study of Literature-based Discovery in Alzheimer's Disease, 27 August 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-4831558/v1]
+<!-- doi: https://doi.org/10.21203/rs.3.rs-4831558/v1 -->
 
 
 <!-- ## Prerequisites
